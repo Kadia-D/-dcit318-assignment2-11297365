@@ -1,0 +1,15 @@
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\bin\Debug\net8.0\AbstractApp.exe
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\bin\Debug\net8.0\AbstractApp.deps.json
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\bin\Debug\net8.0\AbstractApp.runtimeconfig.json
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\bin\Debug\net8.0\AbstractApp.dll
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\bin\Debug\net8.0\AbstractApp.pdb
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\obj\Debug\net8.0\AbstractApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\obj\Debug\net8.0\AbstractApp.AssemblyInfoInputs.cache
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\obj\Debug\net8.0\AbstractApp.AssemblyInfo.cs
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\obj\Debug\net8.0\AbstractApp.csproj.CoreCompileInputs.cache
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\obj\Debug\net8.0\AbstractApp.sourcelink.json
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\obj\Debug\net8.0\AbstractApp.dll
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\obj\Debug\net8.0\refint\AbstractApp.dll
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\obj\Debug\net8.0\AbstractApp.pdb
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\obj\Debug\net8.0\AbstractApp.genruntimeconfig.cache
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\AbstractApp\obj\Debug\net8.0\ref\AbstractApp.dll
