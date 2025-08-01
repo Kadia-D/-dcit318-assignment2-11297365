@@ -1,0 +1,15 @@
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\bin\Debug\net8.0\InheritanceApp.exe
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\bin\Debug\net8.0\InheritanceApp.deps.json
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\bin\Debug\net8.0\InheritanceApp.runtimeconfig.json
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\bin\Debug\net8.0\InheritanceApp.dll
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\bin\Debug\net8.0\InheritanceApp.pdb
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\obj\Debug\net8.0\InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\obj\Debug\net8.0\InheritanceApp.AssemblyInfoInputs.cache
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\obj\Debug\net8.0\InheritanceApp.AssemblyInfo.cs
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\obj\Debug\net8.0\InheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\obj\Debug\net8.0\InheritanceApp.sourcelink.json
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\obj\Debug\net8.0\InheritanceApp.dll
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\obj\Debug\net8.0\refint\InheritanceApp.dll
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\obj\Debug\net8.0\InheritanceApp.pdb
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\obj\Debug\net8.0\InheritanceApp.genruntimeconfig.cache
+C:\Users\Della Dellor\Desktop\-dcit318-assignment2-11297365\InheritanceApp\obj\Debug\net8.0\ref\InheritanceApp.dll
